@@ -54,8 +54,8 @@
 
 1.  **克隆仓库**
     ```bash
-    git clone https://github.com/your-username/ncm-mood-analyzer.git
-    cd ncm-mood-analyzer
+    git clone https://github.com/Larrtroffen/NCM-MoodAnalyzer.git
+    cd NCM-MoodAnalyzer
     ```
 
 2.  **同步依赖**
@@ -130,3 +130,4 @@
 ## 📄 License
 
 MIT License
+
