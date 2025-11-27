@@ -1,0 +1,20 @@
+[project]
+name = "ncm-analyzer"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "calmap>=0.0.11",
+    "calplot>=0.1.7.5",
+    "colorama>=0.4.6",
+    "joypy>=0.2.6",
+    "matplotlib>=3.10.7",
+    "pandas>=2.3.3",
+    "pyncm>=1.8.1",
+    "qrcode>=8.2",
+    "seaborn>=0.13.2",
+    "setuptools>=80.9.0",
+    "snownlp>=0.12.3",
+    "tqdm>=4.67.1",
+]
